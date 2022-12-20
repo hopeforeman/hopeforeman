@@ -1,7 +1,7 @@
 - 👋 Hi. My name is Hope.
 - 👀 I’m interested in web developement & cybersecurity.
 - 🌱 I’m currently learning web design theory, HTML/CSS and JavaScript, then eventually some libraries and web services/API's.
-- 💞️ My goal is to work remotely/hybrid as a front end developer with an awesome team!
+- 💞️ My goal is to work remotely/hybrid as a developer with an awesome team!
 - 📫 Feel free to give me feedback, advice, collab ideas, etc. at xhforeman@outlook.com
 
 <!---
